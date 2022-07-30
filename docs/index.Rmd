@@ -5,7 +5,7 @@ date: "30 March 2022"
 output: 
    html_document:
       css: style.css
-      theme: readable
+      theme: flatly
       highlight: pygments
 --- 
 
