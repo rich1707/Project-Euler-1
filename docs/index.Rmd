@@ -20,7 +20,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-<body style="background-color:#ede8df;">
+<body style="background-color:#f3f4ee;">
 
 # Problems from Project Euler
 
